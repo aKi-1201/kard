@@ -1,4 +1,4 @@
-# Kard (Stage 4 – Capture, Edit, Share & Import)
+# Kard — Quick Snap Business Card (Simple MVP)
 
 SwiftUI MVP for creating, editing, exporting (AirDrop) and importing digital business cards (JSON + PNG).
 
