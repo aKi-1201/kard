@@ -1,5 +1,7 @@
 # Kard — Quick Snap Business Card (Simple MVP)
 
+Medium[https://medium.com/@kingki/bdc846e3fe71]
+
 SwiftUI MVP for creating, editing, exporting (AirDrop) and importing digital business cards (JSON + PNG).
 
 ## Implemented (Stage 1 → 4)
